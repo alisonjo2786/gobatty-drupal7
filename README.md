@@ -2,6 +2,8 @@
 
 Code repo for my site, **[Go Batty! -- or Hear Hear!](http://dev-hearhear.pantheonsite.io/)**. (Yes I thought of two differnt names, and decided, it's my project, I don't have to decide, SO THERE.)
 
+**My lofty goal:** Prove to my friend's parents that there ARE bats in the attic ceiling, even if **they** can't hear them.
+
 Created at [Hack Upstate XI](http://hackupstate.com/events/xi/index.html), hosted for free on [Pantheon](https://pantheon.io/)!
 
 ## What's inside
