@@ -313,7 +313,7 @@ function all_the_battiness_strongarm() {
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'site_slogan';
-  $strongarm->value = '<a href="https://github.com/alisonjo2786/gobatty-dr">About this site (GitHub)</a>';
+  $strongarm->value = 'Prove to your parents: There ARE bats in the attic ceiling.<br /><a href="https://git.io/vpIei">GitHub</a>';
   $export['site_slogan'] = $strongarm;
 
   $strongarm = new stdClass();
